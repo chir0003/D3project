@@ -1,0 +1,12 @@
+{
+  "name": "d3-temperature-visualization",
+  "version": "1.0.0",
+  "description": "Global temperature anomalies visualization using D3.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
